@@ -1,4 +1,5 @@
 #! /usr/bin/env node
+
 // npm init command for creating the projects package.json file
 //tsc --init for creating the type script file
 // in line change target from es2016 to es2022 to
